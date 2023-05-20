@@ -1,4 +1,4 @@
-## <p align=center>👋 Hi, I’m Pedro (@Mindset-Epico)</p>
+## <p align=center>👋🏻 Hi, I’m Pedro (@Mindset-Epico)</p>
 
 <br>
 
