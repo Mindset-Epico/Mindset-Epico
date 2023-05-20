@@ -10,4 +10,12 @@
 
 📫 How to reach me mindset.epico@gmail.com.
 
-⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS5, 🍿 Movies and TV Series.
+⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS5, ⚔️ D&D, 🍿 Movies and TV Series.
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,angular,react,sqlite,figma" />
+  </a>
+</p>
