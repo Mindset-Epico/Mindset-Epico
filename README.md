@@ -1,8 +1,8 @@
-## <p align=center>👋 Hi, I’m Pedro (@Mindset-Epico) </p>
+## <p align=center>👋 Hi, I’m Pedro (@Mindset-Epico)</p>
 
 <br>
 
-💻 A new programmer and TI Analist from Belo Horizonte - MG - Brazil.
+💻 A new programmer and TI Analyst from Belo Horizonte - MG - Brazil.
 
 🔭 I’m currently working at Prevenir Assistencial.
 
