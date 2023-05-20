@@ -2,7 +2,7 @@
 
 <br>
 
-💻 A new programmer and TI Analyst from Belo Horizonte - MG - Brazil.
+💻 A new Programmer and TI Analyst from Belo Horizonte - MG - Brazil.
 
 🔭 I’m currently working at Prevenir Assistencial.
 
