@@ -10,7 +10,7 @@
 
 📫 How to reach me mindset.epico@gmail.com.
 
-⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS5, ⚔️ D&D, 🍿 Movies and TV Series.
+⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
 
 <br>
 
