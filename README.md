@@ -19,3 +19,9 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,angular,react,sqlite,figma" />
   </a>
 </p>
+<br>
+<br>
+<br>
+<p align="center">
+Success is the sum of small efforts repeated day after day
+</p>
