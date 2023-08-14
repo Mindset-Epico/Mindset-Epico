@@ -6,7 +6,7 @@
 
 🔭 I’m currently working at Prevenir Assistencial.
 
-💬 My main interests are C#, Javascript, Angular, SQL Server and UX Design.
+💬 My main interests are C#, Angular, Flutter, Javascript and UX Design.
 
 📫 How to reach me mindset.epico@gmail.com.
 
